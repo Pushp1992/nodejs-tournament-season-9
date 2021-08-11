@@ -1,0 +1,36 @@
+{
+    "statusMessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "propertyList": [
+            {
+                "propertyID": 1,
+                "builderName": "Max builders",
+                "propertyName": "DS Max Sprinkles",
+                "propertyType": "house",
+                "availableFor": "purchase"
+            },
+            {
+                "propertyID": 2,
+                "builderName": "shobha builders",
+                "propertyName": "Shobha Royal Pavilion",
+                "propertyType": "apartment",
+                "availableFor": "rent"
+            },
+            {
+                "propertyID": 3,
+                "builderName": "trifecta builders",
+                "propertyName": "Trifecta Joli",
+                "propertyType": "independent flat",
+                "availableFor": "purchase"
+            },
+            {
+                "propertyID": 4,
+                "builderName": "ahad builders",
+                "propertyName": "Ahad Euphoria",
+                "propertyType": "villa",
+                "availableFor": "rent"
+            }
+        ]
+    }
+}
